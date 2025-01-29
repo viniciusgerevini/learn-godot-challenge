@@ -2,7 +2,7 @@
 
 Here is my humble attempt to help you make a game using Godot. For more context you can watch this [video](https://youtu.be/B9heoGTQLz8).
 
-I decided to put this "challenge" together to help people walk the way by themselves. It has a list of tasks split by rounds. Each round has a goal, and the idea is for you to try to complete those by yourself, looking at the docs and researching online.
+I decided to put this challenge together to help people learn Godot by providing a direction, without hand holding. It has a list of tasks split by rounds. Each round has a goal, and the idea is for you to try to complete those by yourself, looking at the docs and researching online.
 
 If you get stuck, feel free to search or open a [discussion](https://github.com/viniciusgerevini/learn-godot-challenge/discussions) in this repository and I will try to help you out (make sure to mention me, `@viniciusgerevini`, on the discussion because I'm not sure I will be notified otherwise).
 
